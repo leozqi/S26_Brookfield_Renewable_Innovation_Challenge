@@ -19,7 +19,7 @@ You need to communicate the details of your design to the judges. Your solution 
 ## Resources
 - [Energy data | Sustainability | University of Waterloo](https://uwaterloo.ca/sustainability/our-progress/energy-data)
 - [Eric D. Soulis Weather Station Value Archive](https://www.civil.uwaterloo.ca/weatherstation/data-archives/?utm_source=chatgpt.com)
-- [Generator Output and Capability](https://reports-public.ieso.ca/public/GenOutputCapability/)
+- [Electrity Output in Ontario for Generators >20MW](https://reports-public.ieso.ca/public/GenOutputCapability/)
 - [MATLAB and Simulink for Renewable Energy and Energy Storage](https://www.mathworks.com/solutions/electrification/renewable-energy-energy-storage.html)
 - [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
 - [Map of Shade](https://shademap.app/@43.47173,-80.54087,15.84043z,1770822733107t,0b,0p,0m)
