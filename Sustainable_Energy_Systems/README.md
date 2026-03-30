@@ -27,6 +27,7 @@ You need to communicate the details of your design to the judges. Your solution 
 - [PyPSA - Python for Power System Analysis](https://github.com/PyPSA/PyPSA)
 - [System Advisor Model](https://sam.nlr.gov/)
 - [Machine Learning Guide](https://github.com/IdeasClinicUWaterloo/Technologies-Utilized-for-Idea-s-Clinic-Challenges/blob/main/Machine_Learning/Getting_Started_with_Machine_Learning.md)
+- [Adjusted and Homogenized Canadian Climate Data (AHCCD) Portal](https://climate-change.canada.ca/climate-data/#/adjusted-station-data)
 
 ## Datasets
 The following datasets, covering the years 2015–2024, are provided in the data folder and may be useful for sustainability studies.
