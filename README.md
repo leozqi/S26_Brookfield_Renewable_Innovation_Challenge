@@ -51,6 +51,5 @@ Develop a solution that improves transportation efficiency and reduces fossil‑
 ## General Resources
 - [University of Waterloo Campus Plan](https://uwaterloo.ca/campus-plan/university-waterloo-campus-plan)
 - [Sustainability home](https://uwaterloo.ca/sustainability/)
-- Heliodons
 - [Google AI Studio for Application Prototyping](https://ai.google/studio)
 - Enroll in [GitHub Education](https://education.github.com/pack) with your UW Student ID to access [Copilot](https://github.com/features/copilot). Copilot is an AI-powered coding and chat assistant available in Visual Studio Code.
